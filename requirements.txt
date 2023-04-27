@@ -1,0 +1,12 @@
+Pillow
+numpy
+cv2
+pandas
+matplotlib
+streamlit
+scikit-learn
+glob
+seaborn
+keras
+sklearn
+scikit-image
