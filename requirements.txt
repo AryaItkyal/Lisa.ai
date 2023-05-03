@@ -1,6 +1,7 @@
+pip
 Pillow
 numpy
-cv2
+opencv-python
 pandas
 matplotlib
 streamlit
