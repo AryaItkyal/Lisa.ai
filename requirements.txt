@@ -6,7 +6,7 @@ pandas
 matplotlib
 streamlit
 scikit-learn
-glob
+glob2
 seaborn
 keras
 sklearn
