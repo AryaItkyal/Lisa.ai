@@ -9,8 +9,6 @@ scikit-image
 glob2
 seaborn
 keras
-sklearn
-scikit-image
 base64
 streamlit
 os
