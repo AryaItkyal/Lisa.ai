@@ -5,7 +5,7 @@ opencv-python
 pandas
 matplotlib
 streamlit
-sklearn
+scikit-image
 glob2
 seaborn
 keras
