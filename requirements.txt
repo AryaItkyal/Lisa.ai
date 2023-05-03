@@ -9,8 +9,6 @@ scikit-image
 glob2
 seaborn
 keras
-base64
-streamlit
 os
 time
 json
