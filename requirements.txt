@@ -5,6 +5,7 @@ opencv-python
 pandas
 matplotlib
 streamlit
+setup_tools
 scikit-learn
 glob2
 seaborn
