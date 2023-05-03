@@ -15,4 +15,4 @@ streamlit
 os
 time
 json
-streamlit lottie
+streamlit-lottie
