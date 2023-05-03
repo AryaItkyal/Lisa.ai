@@ -9,6 +9,5 @@ scikit-image
 glob2
 seaborn
 keras
-time
-json
+python-time
 streamlit-lottie
