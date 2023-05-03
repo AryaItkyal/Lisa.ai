@@ -10,3 +10,9 @@ seaborn
 keras
 sklearn
 scikit-image
+base64
+streamlit
+os
+time
+json
+streamlit lottie
